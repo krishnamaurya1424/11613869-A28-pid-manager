@@ -29,3 +29,6 @@ int allocate_map(void)                      //For Creating & initialising data s
 	else
     return -1;
 }
+int main()
+{
+}
